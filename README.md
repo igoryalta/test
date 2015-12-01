@@ -7,4 +7,4 @@ test
 
 
 
-повые изменения для ветки footer - add for footer1 -
+повые изменения для ветки footer 
